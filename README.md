@@ -8,8 +8,8 @@
 ## 🚀 Open Source Contributions
 
 ### Laravel MCP
-- ✅ [Fix Symfony Process 7.x callback type compatibility in InspectorCommand](https://github.com/laravel/mcp/pull/123)
-- ✅ [Normalize Windows artisan path](https://github.com/laravel/mcp/pull/124)
+- ✅ [Fix Symfony Process 7.x callback type compatibility in InspectorCommand](https://github.com/laravel/mcp/pull/36)
+- ✅ [Normalize Windows artisan path](https://github.com/laravel/mcp/pull/31)
 
 ---
 
