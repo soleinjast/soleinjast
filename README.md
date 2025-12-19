@@ -11,9 +11,9 @@
 - ✅ [Fix Symfony Process 7.x callback type compatibility in InspectorCommand](https://github.com/laravel/mcp/pull/36)
 - ✅ [Normalize Windows artisan path](https://github.com/laravel/mcp/pull/31)
 
-#### Laravel Documentation
-- 📚 Contributed improvements to official Laravel documentation  
-  ↳ [Merged commit](https://github.com/laravel/docs/commit/978d4ca061555da56fdd845ab3285816740b7a5c)
+### Laravel Docs
+- ✅ [Add documentation for explicitly setting tool annotation values (#10956)](https://github.com/laravel/docs/commit/978d4ca061555da56fdd845ab3285816740b7a5c)
+
 
 ---
 
