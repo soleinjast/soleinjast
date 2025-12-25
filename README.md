@@ -1,11 +1,14 @@
 # 👋 Hi, I'm Mohammad Oveisi
-
 🌍 Based in the United Kingdom  
 💻 Software Engineer | Open Source Contributor  
 
 ---
 
 ## 🚀 Open Source Contributions
+
+### Symfony Validation Response Bundle
+- ✅ [Created and published `soleinjast/symfony-validation-response`](https://github.com/soleinjast/symfony-validation-response) - A lightweight Symfony bundle for clean validation error responses
+- 📦 [Available on Packagist](https://packagist.org/packages/soleinjast/symfony-validation-response)
 
 ### Laravel MCP
 - ✅ [Fix Symfony Process 7.x callback type compatibility in InspectorCommand](https://github.com/laravel/mcp/pull/36)
@@ -14,11 +17,17 @@
 ### Laravel Docs
 - ✅ [Add documentation for explicitly setting tool annotation values (#10956)](https://github.com/laravel/docs/commit/978d4ca061555da56fdd845ab3285816740b7a5c)
 
+---
+
+## 📦 My Packages
+
+| Package | Description | Downloads | Version |
+|---------|-------------|-----------|---------|
+| [symfony-validation-response](https://github.com/soleinjast/symfony-validation-response) | Clean validation error responses for Symfony APIs | [![Downloads](https://poser.pugx.org/soleinjast/symfony-validation-response/downloads)](https://packagist.org/packages/soleinjast/symfony-validation-response) | [![Latest Version](https://poser.pugx.org/soleinjast/symfony-validation-response/v)](https://packagist.org/packages/soleinjast/symfony-validation-response) |
 
 ---
 
 ## 🛠️ Skills
-
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -34,3 +43,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
+
+---
+
+## 📊 GitHub Stats
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=soleinjast&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soleinjast)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
