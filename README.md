@@ -17,7 +17,6 @@
 
 ### Symfony Validation Response Bundle
 - ✅ [Created and published `soleinjast/symfony-validation-response`](https://github.com/soleinjast/symfony-validation-response) - A lightweight Symfony bundle for clean validation error responses
-- 📦 [Available on Packagist](https://packagist.org/packages/soleinjast/symfony-validation-response)
 
 ---
 
