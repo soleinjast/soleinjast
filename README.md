@@ -6,9 +6,7 @@
 ## 🚀 Open Source Contributions
 
 ### Laravel Roster
-- ✅ **Add modular architecture detection**  
-  Merged PR introducing a new `MODULAR` approach to detect modular Laravel projects, enabling accurate project introspection and safer downstream tooling  
-  🔗 https://github.com/laravel/roster/pull/33
+- ✅ [Add modular architecture detection](https://github.com/laravel/roster/pull/33)
 
 ### Laravel MCP
 - ✅ [Fix Symfony Process 7.x callback type compatibility in InspectorCommand](https://github.com/laravel/mcp/pull/36)
