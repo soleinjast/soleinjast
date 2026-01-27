@@ -10,6 +10,11 @@
 - ✅ [Created and published `soleinjast/symfony-validation-response`](https://github.com/soleinjast/symfony-validation-response) - A lightweight Symfony bundle for clean validation error responses
 - 📦 [Available on Packagist](https://packagist.org/packages/soleinjast/symfony-validation-response)
 
+### Laravel Roster
+- ✅ **Add modular architecture detection**  
+  Merged PR introducing a new `MODULAR` approach to detect modular Laravel projects, enabling accurate project introspection and safer downstream tooling  
+  🔗 https://github.com/laravel/roster/pull/33
+
 ### Laravel MCP
 - ✅ [Fix Symfony Process 7.x callback type compatibility in InspectorCommand](https://github.com/laravel/mcp/pull/36)
 - ✅ [Normalize Windows artisan path](https://github.com/laravel/mcp/pull/31)
