@@ -5,6 +5,9 @@
 ---
 ## 🚀 Open Source Contributions
 
+### Laravel Boost
+- [Fix Gemini CLI import parsing by escaping scoped npm packages in guidelines](https://github.com/laravel/boost/pull/523)
+
 ### Laravel Roster
 - [Add modular architecture detection](https://github.com/laravel/roster/pull/33)
 
