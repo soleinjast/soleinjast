@@ -10,6 +10,7 @@
 ### Laravel Boost
 - [Fix Gemini CLI import parsing by escaping scoped npm packages in guidelines](https://github.com/laravel/boost/pull/523)
 - [Apply table prefix to raw SQL queries in DatabaseQuery MCP tool (with CTE alias handling)](https://github.com/laravel/boost/pull/529)
+- [Use cmd /c for Windows agent detection commands)](https://github.com/laravel/boost/pull/558)
 
 ### Laravel Roster
 - [Add modular architecture detection](https://github.com/laravel/roster/pull/33)
