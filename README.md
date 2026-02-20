@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Mohammad Oveisi
 
 🌍 Based in the United Kingdom  
-
 💻 Software Engineer | Open Source Contributor  
+🧠 Backend Architecture • AI-Ready Systems • Developer Tooling  
 
 ---
+
 ## 🚀 Open Source Contributions
 
 ### Laravel Boost
 - [Fix Gemini CLI import parsing by escaping scoped npm packages in guidelines](https://github.com/laravel/boost/pull/523)
 - [Apply table prefix to raw SQL queries in DatabaseQuery MCP tool (with CTE alias handling)](https://github.com/laravel/boost/pull/529)
-- [Use cmd /c for Windows agent detection commands)](https://github.com/laravel/boost/pull/558)
+- [Use `cmd /c` for Windows agent detection commands](https://github.com/laravel/boost/pull/558)
 
 ### Laravel Roster
 - [Add modular architecture detection](https://github.com/laravel/roster/pull/33)
@@ -22,20 +23,19 @@
 ### Laravel Docs
 - [Add documentation for explicitly setting tool annotation values](https://github.com/laravel/docs/commit/978d4ca061555da56fdd845ab3285816740b7a5c)
 
-### Symfony Validation Response Bundle
-- [Created and published `soleinjast/symfony-validation-response`](https://github.com/soleinjast/symfony-validation-response) - A lightweight Symfony bundle for clean validation error responses
-
 ---
 
 ## 📦 My Packages
 
 | Package | Description | Downloads | Version |
 |---------|-------------|-----------|---------|
-| [symfony-validation-response](https://github.com/soleinjast/symfony-validation-response) | Clean validation error responses for Symfony APIs | [![Downloads](https://poser.pugx.org/soleinjast/symfony-validation-response/downloads)](https://packagist.org/packages/soleinjast/symfony-validation-response) | [![Latest Version](https://poser.pugx.org/soleinjast/symfony-validation-response/v)](https://packagist.org/packages/soleinjast/symfony-validation-response) |
+| [symfony-markdown-response-bundle](https://github.com/soleinjast/symfony-markdown-response-bundle) | Serve Markdown versions of your HTML pages to AI agents & bots | ![Downloads](https://poser.pugx.org/soleinjast/symfony-markdown-response-bundle/downloads) | ![Latest Version](https://poser.pugx.org/soleinjast/symfony-markdown-response-bundle/v) |
+| [symfony-validation-response](https://github.com/soleinjast/symfony-validation-response) | Clean, structured validation error responses for Symfony APIs | ![Downloads](https://poser.pugx.org/soleinjast/symfony-validation-response/downloads) | ![Latest Version](https://poser.pugx.org/soleinjast/symfony-validation-response/v) |
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -53,6 +53,8 @@
 </p>
 
 ---
+
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soleinjast&label=Profile%20views&color=0e75b6&style=flat" />
