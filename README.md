@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Mohammad Oveisi
 
 🌍 Based in the United Kingdom  
+
 💻 Software Engineer | Open Source Contributor  
+
 🧠 Backend Architecture • AI-Ready Systems • Developer Tooling  
 
 ---
